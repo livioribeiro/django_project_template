@@ -1,0 +1,1 @@
+# Modern Django project template
