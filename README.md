@@ -1,1 +1,3 @@
-# Modern Django project template
+# {{ project_name }}
+
+Description of {{ project_name }}
